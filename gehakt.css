@@ -1,0 +1,11 @@
+body{
+	background-color: lightgray;
+	width:900px;
+	margin:0 auto;
+}
+
+#gehaktbrood{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
